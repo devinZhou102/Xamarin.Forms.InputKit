@@ -15,19 +15,35 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/st6lcbts9bkhxqub?svg=true)](https://ci.appveyor.com/project/enisn/xamarin-forms-inputkit)
 [![CodeFactor](https://www.codefactor.io/repository/github/enisn/xamarin.forms.inputkit/badge)](https://www.codefactor.io/repository/github/enisn/xamarin.forms.inputkit)
-<a href="https://www.nuget.org/packages/Xamarin.Forms.InputKit/"><img src="https://img.shields.io/badge/Nuget-2.3.1-blue.svg" /></a>
+<a href="https://www.nuget.org/packages/Xamarin.Forms.InputKit/"><img src="https://img.shields.io/badge/Nuget-2.3.5-blue.svg" /></a>
 <a href="https://github.com/enisn/Xamarin.Forms.InputKit/wiki"> <img src="https://img.shields.io/badge/Visit-WiKi-orange.svg"/></a>
+<hr/>
 <p>
-<b>Nuget Package Available: </b> :  <a href="https://www.nuget.org/packages/Xamarin.Forms.InputKit/"><img source="http://enisnecipoglu.com/Plugins/inputkit.png" height="15" />Xamarin.Forms.InputKit on NuGet</a>
-</p>
-<p>
-<b>Sample Project Available: </b> :  <a href="https://github.com/enisn/Xamarin.Forms.InputKit/tree/master/Sample.InputKit">Sample.InputKit on GitHub</a>
-</p>
-<p>
-<b>Source Codes Available Too: </b> :  <a href="https://github.com/enisn/Xamarin.Forms.InputKit/tree/master/InputKit">Plugin.InputKit on GitHub</a>
+
+## You can offer new controls!
+
+You can contribute and type your feedbacks about new controls and featues from [here](https://github.com/enisn/Xamarin.Forms.InputKit/issues/45).
+
 </p>
 
 <hr/>
+
+### Also You may interested in:
+
+<table border="0">
+<tr>
+<td>
+    <a href="https://github.com/enisn/Xamarin.Forms.MaterialKit"> <img height="50" src="https://camo.githubusercontent.com/56583f8e2349013be52ef8a0bfa5a485094fcb40/687474703a2f2f656e69736e656369706f676c752e636f6d2f506c7567696e732f6d6174657269616c6b69745f636f72652e706e67" /> </a>
+ </td>
+<td>
+    <a href="https://github.com/enisn/Xamarin.Forms.MaterialKit/tree/master/Lib/MaterialKit.Backdrop"> <img height="50" src="https://camo.githubusercontent.com/42a15bc88498c0cbcfcb925de3cac313aa34f14a/687474703a2f2f656e69736e656369706f676c752e636f6d2f506c7567696e732f6d6174657269616c6b69745f6261636b64726f702e706e67" /> </a>
+ </td>
+<td>
+    <a href="https://github.com/enisn/Xamarin.Forms.MaterialKit/tree/master/Lib/MaterialKit.Backdrop"> <img height="50" src="https://camo.githubusercontent.com/52af9c689718723e1bbca2337fb7c9e17ec742c9/687474703a2f2f656e69736e656369706f676c752e636f6d2f506c7567696e732f6d6174657269616c6b69745f63686970732e706e67" /> </a>
+ </td>
+</tr>
+ </table>
+
 
  ## Available Platforms
 
@@ -134,7 +150,7 @@
 <li><strong>Value:</strong> <em>(object)</em> A value keeps inside and groupview returns that value as SelectedItem</li>
 <li><strong>IsChecked:</strong> <em>(bool)</em> Gets or Sets that radio button selected</li>
 <li><strong>Text:</strong> <em>(string)</em> Text to display near of Radio Button</li>
-<li><strong>FontSize:</strong> <em>(double)</em> Fontsize of Text</li>
+<li><strong>TextFontSize:</strong> <em>(double)</em> Fontsize of Text</li>
 <li><strong>Color:</strong> <em>(Color)</em> Color of selected radio button dot</li>
 <li><strong>TextColor:</strong> <em>(Color)</em> Color of Text</li>
 </ul>
